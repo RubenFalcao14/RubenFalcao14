@@ -1,6 +1,11 @@
-### Hi there !👋 I'm Ruben Falcao !
+# Hi there !👋 I'm Ruben Falcao !
 
-[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RubenFalcao14&theme=xcode)
+I am Ruben Falcao a web developer and a software developer. 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RubenFalcao14&theme=xcode)
+
+## 📫 How to reach me:
+
 <!--
 **RubenFalcao14/RubenFalcao14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
