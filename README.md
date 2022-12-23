@@ -1,6 +1,6 @@
 # Hi there !👋 I'm Ruben Falcao !
 
-I am Ruben Falcao a web developer and a software developer. 
+I am Ruben Falcao an app developer and a software developer. 
 
 ## Stats :
 | ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RubenFalcao14&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFalcao14) |
