@@ -2,11 +2,10 @@
 
 I am Ruben Falcao a web developer and a software developer. 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RubenFalcao14&theme=xcode)
-
-## More Stats :
-![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RubenFalcao14&show_icons=true)
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFalcao14) -->
+## Stats :
+| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RubenFalcao14&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFalcao14) |
+| --- | --- |
+| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubenFalcao14) |
 
 <!--
 **RubenFalcao14/RubenFalcao14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
