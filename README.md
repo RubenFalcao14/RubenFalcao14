@@ -1,11 +1,11 @@
 # Hi there !👋 I'm Ruben Falcao !
 
-I am Ruben Falcao an app developer and a software developer. 
+I am Ruben Falcao an app developer and a software engineer. 
 
 ## Stats :
-| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RubenFalcao14&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFalcao14) |
+| ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RubenFalcao14&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFalcao14) |
 | --- | --- |
-| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubenFalcao14) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubenFalcao14) |
 
 <!--
 **RubenFalcao14/RubenFalcao14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
