@@ -5,7 +5,7 @@ I am Ruben Falcao an app developer and a software engineer.
 ## Stats :
 | ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RubenFalcao14&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFalcao14) |
 | --- | --- |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubenFalcao14) | ![Profile View Counter](https://komarev.com/ghpvc/?username=RubenFalcao14) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubenFalcao14) |
 
 
 ## Random Joke Generator
