@@ -2,12 +2,13 @@
 
 I am Ruben Falcao an app developer and a software engineer. 
 
+[![Ruben's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RubenFalcao14)](https://git.io/J1Ycx)
+
 ## Stats :
 | ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=RubenFalcao14&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFalcao14) |
 | --- | --- |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubenFalcao14) |
 
-[![Ruben's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RubenFalcao14)](https://git.io/J1Ycx)
 
 ## Random Joke Generator
 
