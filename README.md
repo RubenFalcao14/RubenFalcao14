@@ -7,6 +7,7 @@ I am Ruben Falcao an app developer and a software engineer.
 | --- | --- |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubenFalcao14) |
 
+[![Ruben's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RubenFalcao14)](https://git.io/J1Ycx)
 
 ## Random Joke Generator
 
