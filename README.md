@@ -9,6 +9,10 @@ I am Ruben Falcao an app developer and a software engineer.
 | --- | --- |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RubenFalcao14) |
 
+## Connect with Me 🤝🏻
+
+[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/ruben-falcao/) [![Twitter](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tw.svg)](https://twitter.com/praveenscience) [![YouTube](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/yt.svg)](https://youtube.com/praveenscience) [![Stack Overflow](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/so.svg)](https://stackoverflow.com/users/462627/praveen-kumar-purushothaman) [![GitHub](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/gh.svg)](https://github.com/praveenscience)
+
 
 ## Random Joke Generator
 
