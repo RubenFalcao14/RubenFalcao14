@@ -12,7 +12,7 @@ I am Ruben Falcao an app developer and a software engineer.
  ## Let's Connect 📫
 
 <a href="https://www.linkedin.com/in/ruben-falcao/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://twitter.com/KairosSpark"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<!--<a href="https://twitter.com/KairosSpark"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>-->
 
 ## Random Joke Generator
 
